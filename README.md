@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoMateusgit
-- 👀 I’m interested in ... learn how to program
-- 🌱 I’m currently learning ... create codes
-- 💞️ I’m looking to collaborate on ... github
+- 👀 I’m interested in ... web develope
+- 🌱 I’m currently learning ... Js,css,html and php
+- 💞️ I’m looking to collaborate on ... web projects
 - 📫 How to reach me ... send me a email
 
 <!---
